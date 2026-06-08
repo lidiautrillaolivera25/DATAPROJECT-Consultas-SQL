@@ -198,9 +198,10 @@ Durante el proyecto se han reforzado conocimientos relacionados con:
 Este proyecto ha permitido desarrollar una comprensión sólida de SQL y de las bases de datos relacionales mediante la resolución práctica de problemas reales utilizando la base de datos Sakila. Se han aplicado consultas simples y avanzadas, así como técnicas de agregación, agrupación, relaciones entre tablas y creación de objetos de base de datos como vistas y tablas temporales.
 
 # 📌 Estructura del repositorio
-├── BBDD /                # Base de datos Sakila
 
 ├── Archivo SQL.sql/          # Archivos de visualización de consultas
+
+├── BBDD_Proyecto_shakila /                # Base de datos Sakila
 
 ├──Informe proyecto SQL/             # Informe explicativo
 
